@@ -27,3 +27,7 @@ python3 -m http.server 8000
 
 This is a snapshot of the rendered/deployed page captured on 2026-06-15, not the
 original project source.
+
+---
+
+_Hosted on Vercel with auto-deploy from this repo (every push to `main` redeploys)._
